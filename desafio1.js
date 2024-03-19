@@ -1,4 +1,3 @@
-# Desafio1
 const aluno = 'Carlos'
 const nota1 = 4
 const nota2 = 8
